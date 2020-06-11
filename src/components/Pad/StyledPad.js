@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import BGImg from '../../assets/drums.jpg';
 
 const StyledPad = styled.div`
 
